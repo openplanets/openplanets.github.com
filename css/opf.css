@@ -1,0 +1,15 @@
+@font-face {
+    font-family: 'NewRegular';
+    src: url('fnts/hit-the-road-webfont.eot');
+    src: url('fnts/hit-the-road-webfont.eot?#iefix') format('embedded-opentype'),
+         url('fnts/hit-the-road-webfont.woff') format('woff'),
+         url('fnts/hit-the-road-webfont.ttf') format('truetype'),
+         url('fnts/hit-the-road-webfont.svg#NewRegular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+body { 
+  font-size: 12px;
+  font-family: "NewRegular", Arial, sans-serif;
+}
