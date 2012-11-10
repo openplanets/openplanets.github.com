@@ -20,13 +20,11 @@ h1 {
 
 #logo {
 	margin-top: 10px;
-	display: inline;
-	float: left;
 }
 
-#banner h1 {
+#logo h1 {
+	margin-left: 20px;
 	display: inline;
-	float: right;
 }
 
 #site-slogan {
