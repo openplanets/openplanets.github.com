@@ -13,3 +13,11 @@ body {
   font-size: 12px;
   font-family: "NewRegular", Arial, sans-serif;
 }
+
+#logo {
+	margin-top: 10px;
+}
+#site-slogan {
+	color: #959595;
+	text-shadow: #fff 1px 1px;
+}
