@@ -11,14 +11,28 @@
 
 body { 
   font-size: 12px;
-  font-family: "NewRegular", Arial, sans-serif;
+  font-family: 'Nimbus Sans', 'Nimbus Sans L', FreeSans, 'Liberation Sans', 'Dejavu Sans Condensed', HelveticaNeue-Light, 'Helvetica Neue Light', Helvetica, Arial, sans-serif;
+}
+
+h1 {
+	font-family: "NewRegular";
 }
 
 #logo {
 	margin-top: 10px;
+	display: inline;
+	float: left;
 }
+
+#banner h1 {
+	display: inline;
+	float: right;
+}
+
 #site-slogan {
-	margin-top: 10px;
+	margin-top: 5px;
 	color: #959595;
 	text-shadow: #fff 1px 1px;
+	font-family: "NewRegular";
 }
+
